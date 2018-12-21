@@ -1,1 +1,1 @@
-# DDDSample
+# DDDSample  + .net core
