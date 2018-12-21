@@ -1,0 +1,9 @@
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\bin\Debug\netcoreapp2.0\LabFlow.Domain.Core.deps.json
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\bin\Debug\netcoreapp2.0\LabFlow.Domain.Core.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\bin\Debug\netcoreapp2.0\LabFlow.Domain.Core.pdb
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.csprojAssemblyReference.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.csproj.CoreCompileInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.AssemblyInfoInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.AssemblyInfo.cs
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Domain.Core\obj\Debug\netcoreapp2.0\LabFlow.Domain.Core.pdb

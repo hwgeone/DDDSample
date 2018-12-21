@@ -1,0 +1,12 @@
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.deps.json
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.pdb
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\LabFlow.Domain.Core.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\bin\Debug\netcoreapp2.0\LabFlow.Domain.Core.pdb
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.csprojAssemblyReference.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.csproj.CoreCompileInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.AssemblyInfoInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.AssemblyInfo.cs
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.csproj.CopyComplete
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Bus\obj\Debug\netcoreapp2.0\LabFlow.Infra.CrossCutting.Bus.pdb

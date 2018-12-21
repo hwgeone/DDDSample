@@ -1,0 +1,11 @@
+C:\allfiles\LabFlow\LabFlow\LabFlow\bin\Debug\netcoreapp2.1\LabFlow.deps.json
+C:\allfiles\LabFlow\LabFlow\LabFlow\bin\Debug\netcoreapp2.1\LabFlow.runtimeconfig.json
+C:\allfiles\LabFlow\LabFlow\LabFlow\bin\Debug\netcoreapp2.1\LabFlow.runtimeconfig.dev.json
+C:\allfiles\LabFlow\LabFlow\LabFlow\bin\Debug\netcoreapp2.1\LabFlow.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow\bin\Debug\netcoreapp2.1\LabFlow.pdb
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.csprojAssemblyReference.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.csproj.CoreCompileInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.AssemblyInfoInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.AssemblyInfo.cs
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow\obj\Debug\netcoreapp2.1\LabFlow.pdb

@@ -1,0 +1,6 @@
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.deps.json
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\bin\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.csprojAssemblyReference.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.csproj.CoreCompileInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.AssemblyInfoInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.CrossCutting.Identity\obj\Debug\netcoreapp2.1\LabFlow.Infra.CrossCutting.Identity.AssemblyInfo.cs

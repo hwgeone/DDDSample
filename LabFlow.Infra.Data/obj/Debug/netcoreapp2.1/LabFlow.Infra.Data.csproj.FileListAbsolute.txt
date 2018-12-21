@@ -1,0 +1,6 @@
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\bin\Debug\netcoreapp2.1\LabFlow.Infra.Data.deps.json
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\bin\Debug\netcoreapp2.1\LabFlow.Infra.Data.dll
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\obj\Debug\netcoreapp2.1\LabFlow.Infra.Data.csprojAssemblyReference.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\obj\Debug\netcoreapp2.1\LabFlow.Infra.Data.csproj.CoreCompileInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\obj\Debug\netcoreapp2.1\LabFlow.Infra.Data.AssemblyInfoInputs.cache
+C:\allfiles\LabFlow\LabFlow\LabFlow.Infra.Data\obj\Debug\netcoreapp2.1\LabFlow.Infra.Data.AssemblyInfo.cs
